@@ -31,3 +31,24 @@ class Solution:
         if remain:
             pow_ *= value
         return pow_
+
+    def my_pow_3(self, value: float, power: int) -> float:
+        """Use loop instead of recurisve call.
+
+        Notes:
+            Time Complexity: O(log(power))
+            Space Complexity: O(1)
+        """
+        if value == 0:
+            return 0
+
+        if power < 0:
+            value = 1 / value
+            power = -power
+
+        pow_ = 1.0
+        while power > 0:
+            power, remain = divmod(power, 2)
+            pow_ *= (value ** remain)
+            value *= value
+        return pow_
