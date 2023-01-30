@@ -18,6 +18,9 @@ class Solution:
         if power == 0:
             return 1
 
+        if value == 0:
+            return 0
+
         if power < 0:
             value = 1 / value
             power = -power
