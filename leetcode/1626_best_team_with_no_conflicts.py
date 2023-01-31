@@ -42,7 +42,7 @@ class Solution:
         return max(max_seq)
 
     def best_team_score_v3(self, scores: list[int], ages: list[int]) -> int:
-        """Using binary indexed tree (modified other's solution)
+        """Using binary indexed tree (other's solution)
 
         Notes:
             Time compleixty: O(NlogN + NlogK)
