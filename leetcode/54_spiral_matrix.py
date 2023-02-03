@@ -22,3 +22,18 @@ class Solution:
             remain[axis] -= 1
             move *= 1 if axis == 0 else -1
             axis ^= 1  # 0 -> 1, 1 -> 0
+
+    def spiral_order_v2(self, matrix: list[list[int]]) -> list[int]:
+        """Using recursive."""
+        # https://github.com/python/cpython/blob/a62be77266b1beadd42d4952186332bc0847b7d6/Objects/listobject.c#L465
+        # cur_line = [*matrix[0]]  # Time complexity O(N), Space compleixty: O(N)
+
+        cur_line = [*matrix.pop(0)]  # Time complexity O(N), Space complexity: O(1)
+
+        # Below line38 is same as follows:
+        # next_lines = []
+        # if matrix:
+        #     rotate_matrix = [*zip(*matrix)]
+        #     next_lines = self.spiral_order_v2(rotate_matrix[::-1])
+        next_lines = matrix and self.spiral_order_v2([*zip(*matrix)][::-1])
+        return cur_line + next_lines
