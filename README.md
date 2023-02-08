@@ -14,3 +14,4 @@
 | 5   | 567.Permutation in String| Hash Table, Two Pointers, Sliding window | [LeetCode](https://leetcode.com/problems/permutation-in-string/description/) | [link](https://github.com/limjiyoon/Daily_Algorithm/blob/main/leetcode/567_permutation_in_string.py) | + |
 | 6   | 57.Insert Interval| Array | [LeetCode](https://leetcode.com/problems/insert-interval/description/) | [link](https://github.com/limjiyoon/Daily_Algorithm/blob/main/leetcode/57_insert_interval.py) | + |
 | 7   | 56.Spiral Matrix 2| Array, Matrix, Simulation | [LeetCode](https://leetcode.com/problems/spiral-matrix-ii/description/) | [link](https://github.com/limjiyoon/Daily_Algorithm/blob/main/leetcode/56_spiral_matrix_2.py) | +! |
+| 8   | 61. Rotate List| Linked List, Two Pointers | [LeetCode](https://leetcode.com/problems/rotate-list/description/) | [link](https://github.com/limjiyoon/Daily_Algorithm/blob/main/leetcode/61_rotate_list.py) | + |
