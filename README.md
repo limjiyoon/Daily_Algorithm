@@ -19,3 +19,4 @@
 | 10   | 81. Search in Rotated Sorted Array II | Binary Search | [LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/) | [link](https://github.com/limjiyoon/Daily_Algorithm/blob/main/leetcode/81_search_in_roated_sorted_array_2.py) | +! |
 | 11   | 86. Partition List | Two Pointers [LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/) | [link](https://github.com/limjiyoon/Daily_Algorithm/blob/main/leetcode/86_partition_list.py) | + |
 | 12   | 89. Gray Code | Backtracking, Bit Manipulation [LeetCode](https://leetcode.com/problems/gray-code/description/) | [link](https://github.com/limjiyoon/Daily_Algorithm/blob/main/leetcode/89_gray_code.py) | + |
+| 13   | 90. Subsets II | Backtracking, Bit Manipulation [LeetCode](https://leetcode.com/problems/subsets-ii/description/) | [link](https://github.com/limjiyoon/Daily_Algorithm/blob/main/leetcode/90_subsets_2.py) | + |
