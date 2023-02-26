@@ -31,3 +31,4 @@
 | 22   | 502. IPO | Greedy, Heap | [LeetCode](https://leetcode.com/problems/ipo/description/) | [link](https://github.com/limjiyoon/Daily_Algorithm/blob/main/leetcode/502_ipo.py) | + |
 | 23   | 1675. Minimize Deviation in Array | Greedy, Heap | [LeetCode](https://leetcode.com/problems/minimize-deviation-in-array/description/) | [link](https://github.com/limjiyoon/Daily_Algorithm/blob/main/leetcode/1675_minimize_deviation_in_array.py) | - |
 | 24   | 121. Best Time to Buy and Sell Stock | Dynamic Programming | [LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [link](https://github.com/limjiyoon/Daily_Algorithm/blob/main/leetcode/121_best_time_to_buy_and_sell_stock.py) | + |
+| 25   | 72. Edit Distance | Dynamic Programming | [LeetCode](https://leetcode.com/problems/edit-distance/description/) | [link](https://github.com/limjiyoon/Daily_Algorithm/blob/main/leetcode/72_edit_distance.py) | -! |
