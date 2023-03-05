@@ -35,3 +35,4 @@
 | 26   | 427. Construct Quad Tree | Divide and Conquer, Recursion | [LeetCode](https://leetcode.com/problems/construct-quad-tree/description/) | [link](https://github.com/limjiyoon/Daily_Algorithm/blob/main/leetcode/427_construct_quad_tree.py) | + |
 | 27   | 912. Sort an Array | Sort | [LeetCode](https://leetcode.com/problems/sort-an-array/description/) | [link](https://github.com/limjiyoon/Daily_Algorithm/blob/main/leetcode/912_sort_an_array.py) | + |
 | 28   | 443. String Compression | Two Pointers | [LeetCode](https://leetcode.com/problems/string-compression/description/) | [link](https://github.com/limjiyoon/Daily_Algorithm/blob/main/leetcode/443_string_compression.py) | + |
+| 29   | 1345. Jump Game IV | BFS | [LeetCode](https://leetcode.com/problems/jump-game-iv/description/) | [link](https://github.com/limjiyoon/Daily_Algorithm/blob/main/leetcode/1345_jump_game_4.py) | + |
