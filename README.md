@@ -36,3 +36,4 @@
 | 27   | 912. Sort an Array | Sort | [LeetCode](https://leetcode.com/problems/sort-an-array/description/) | [link](https://github.com/limjiyoon/Daily_Algorithm/blob/main/leetcode/912_sort_an_array.py) | + |
 | 28   | 443. String Compression | Two Pointers | [LeetCode](https://leetcode.com/problems/string-compression/description/) | [link](https://github.com/limjiyoon/Daily_Algorithm/blob/main/leetcode/443_string_compression.py) | + |
 | 29   | 1345. Jump Game IV | BFS | [LeetCode](https://leetcode.com/problems/jump-game-iv/description/) | [link](https://github.com/limjiyoon/Daily_Algorithm/blob/main/leetcode/1345_jump_game_4.py) | + |
+| 30   | 1539. Kth Missing Positive Number | Binary Search | [LeetCode](https://leetcode.com/problems/kth-missing-positive-number/description/) | [link](https://github.com/limjiyoon/Daily_Algorithm/blob/main/leetcode/1539_kth_missing_positive_number.py) | + |
