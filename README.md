@@ -37,3 +37,4 @@
 | 28   | 443. String Compression | Two Pointers | [LeetCode](https://leetcode.com/problems/string-compression/description/) | [link](https://github.com/limjiyoon/Daily_Algorithm/blob/main/leetcode/443_string_compression.py) | + |
 | 29   | 1345. Jump Game IV | BFS | [LeetCode](https://leetcode.com/problems/jump-game-iv/description/) | [link](https://github.com/limjiyoon/Daily_Algorithm/blob/main/leetcode/1345_jump_game_4.py) | + |
 | 30   | 1539. Kth Missing Positive Number | Binary Search | [LeetCode](https://leetcode.com/problems/kth-missing-positive-number/description/) | [link](https://github.com/limjiyoon/Daily_Algorithm/blob/main/leetcode/1539_kth_missing_positive_number.py) | + |
+| 30   | 2187. Minimum Time to Complete Trips | Binary Search | [LeetCode](https://leetcode.com/problems/minimum-time-to-complete-trips/description/) | [link](https://github.com/limjiyoon/Daily_Algorithm/blob/main/leetcode/2187_minimum_time_to_complete_trips.py) | + |
